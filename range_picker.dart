@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_date_pickers/flutter_date_pickers.dart';
 import 'package:intl/intl.dart';
-import 'package:project/modalclasses/CalendarBookEventShow.dart';
-import 'package:project/modalclasses/calendarPageModal.dart';
+import 'package:mcp_project/modalclasses/CalendarBookEventShow.dart';
+import 'package:mcp_project/modalclasses/calendarPageModal.dart';
 
-import 'package:project/utils/color_picker_dialog.dart';
-import 'package:project/utils/color_selector_btn.dart';
-import 'package:project/utils/comman.dart';
-import 'package:project/utils/event.dart';
-import 'package:project/utils/theme.dart';
+import 'package:mcp_project/utils/color_picker_dialog.dart';
+import 'package:mcp_project/utils/color_selector_btn.dart';
+import 'package:mcp_project/utils/comman.dart';
+import 'package:mcp_project/utils/event.dart';
+import 'package:mcp_project/utils/theme.dart';
 import 'package:provider/provider.dart';
 
 /// Page with the [RangePicker].
